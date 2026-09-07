@@ -1,7 +1,10 @@
-# Html5-Validation-Project
 # Cybersecurity Basics: Staying Safe Online
 
 A simple HTML5 webpage that introduces basic cybersecurity concepts and ways everyday internet users can protect themselves online.
+
+## Live Demo
+
+[View the live website](https://edwardpdd.github.io/Html5-Validation-Project/)
 
 This project started as an assignment for my COP2830 Web Programming course. After completing the assignment, I went back and cleaned up the HTML structure and documentation to make the project suitable for my GitHub portfolio.
 
